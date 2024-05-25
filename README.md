@@ -1,1 +1,2 @@
-# Automatic-Motorcyclist-Helmet-Rule-Violation-Detection-System
+# Automatic-Motorcyclist-Helmet-Rule-Violation-Detection
+Automatic Motorcyclist Helmet Rule Violation Detection system is designed to detect motorcyclists without helmets in real-time and simultaneously capture their vehicle number plates, thus aiding law enforcement in the effective enforcement of helmet laws.  This innovative system leverages the capabilities of the YOLOv5 model, a cutting-edge deep learning framework known for its speed and accuracy in object detection.
